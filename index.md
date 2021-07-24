@@ -1,2 +1,3 @@
 <b>welcome</b>
-i am an developer
+hello
+my freinds
