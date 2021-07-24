@@ -1,4 +1,4 @@
 <b>welcome</b>
 hello 
 <br> my freinds</br>
-<img src=”https://github.com/arjunvoruganti/test/blob/main/0001.jpg”>
+<img src=”https://raw.githubusercontent.com/arjunvoruganti/test/main/0001.jpg”>
