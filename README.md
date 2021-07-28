@@ -1,1 +1,1 @@
-Test
+Donate your device today
